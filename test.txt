@@ -1,0 +1,1 @@
+git commit -m "Pridanie súboru readme.txt"
